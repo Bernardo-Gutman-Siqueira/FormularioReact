@@ -1,0 +1,28 @@
+.body{
+    align-items: center;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    display: flex;
+}
+.keepform{
+    height: 50vh;
+    width: 70vh;
+    align-items: center;
+    text-align: center;
+    
+}
+.greybar{
+    height: 3rem;
+    background-color:dimgray;
+
+}
+.keepkeepform{
+    height: 60vh;
+    width: 70vh;
+    margin: 0 auto;
+}
+.textbigform{
+   text-align: center;
+    color:black;
+}
